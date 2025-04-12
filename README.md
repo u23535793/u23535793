@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=00FF00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Driya;" />
+</h1>
 
 <!--
 **u23535793/u23535793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
