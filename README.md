@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=568b22&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Driya;" />
 </h1>
 
+---
 ## 🔭 About Me
 - 🎓 I'm a final year Computer Science student at the University of Pretoria
 - 📚 My current modules are: Artificial Intelligence, Computer Graphics, Computer Networks, Programming Languages & Software Engineering
