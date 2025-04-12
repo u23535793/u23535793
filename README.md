@@ -18,8 +18,8 @@
 ---
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=u23535793&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=u23535793&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=u23535793&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=u23535793&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=u23535793&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ## 🏆 GitHub Trophies
