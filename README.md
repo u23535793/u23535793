@@ -5,9 +5,9 @@
 ---
 ## 🔭 About Me
 - 🎓 I'm a final year Computer Science student at the University of Pretoria
-- 📚 My current modules are: Artificial Intelligence, Computer Graphics, Computer Networks, Programming Languages & Software Engineering
+- 📚 Academic Focus :  Artificial Intelligence, Computer Graphics, Databases, Data Structure & Algorithms, Programming Languages & Software Engineering
 - 🤝 Soft skills: Problem Solving, Time Management & Good Communication
-- 💡 Fun fact: Approximately 10% of the world's population is left-handed.  I am *not* one of those people.
+- 💡 Fun fact: If I could be any animal, I would be a tiger.
 
 📸 Profile photo by: [Naven Photography](https://naven-photography.webnode.co.uk/)
 
